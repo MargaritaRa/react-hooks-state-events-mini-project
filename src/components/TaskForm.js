@@ -54,4 +54,3 @@ function NewTaskForm({ categories, onTaskFormSubmit }) {
 }
 
 export default NewTaskForm;
-
